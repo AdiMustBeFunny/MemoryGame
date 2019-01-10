@@ -1,0 +1,6 @@
+C:\Users\Adam\Desktop\Programowanie\C#\Konsola\Memory\Memory\bin\Debug\Memory.exe.config
+C:\Users\Adam\Desktop\Programowanie\C#\Konsola\Memory\Memory\bin\Debug\Memory.exe
+C:\Users\Adam\Desktop\Programowanie\C#\Konsola\Memory\Memory\bin\Debug\Memory.pdb
+C:\Users\Adam\Desktop\Programowanie\C#\Konsola\Memory\Memory\obj\Debug\Memory.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\Programowanie\C#\Konsola\Memory\Memory\obj\Debug\Memory.exe
+C:\Users\Adam\Desktop\Programowanie\C#\Konsola\Memory\Memory\obj\Debug\Memory.pdb
